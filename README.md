@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Artjom.<br>
+        I'm Artyom.<br>
     </i><br>
     <a href="mailto:tumchenok.artem@mail.ru">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
