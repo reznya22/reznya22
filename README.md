@@ -1,8 +1,4 @@
-<h1 align="center">What's up!</h1>
-
-<p align="center">
-    <b>Welcome to my page!</b>
-</p>
+<h1 align="center">Welcome to my page!</h1>
 
 ### Links
 [![Email](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail)](mailto:freimmc@gmail.com)
