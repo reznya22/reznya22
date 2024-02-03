@@ -2,16 +2,13 @@
 
 <p align="center">
     <b>Welcome to my page!</b>
-    <a href="mailto:freimmc@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
-    <a href="https://leetcode.com/Artyom__/">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>
-    <a href="https://gitlab.com/artemtumch_">
-        <img src="https://static-00.iconduck.com/assets.00/gitlab-icon-512x471-wfbmkpzi.png" alt="Gitlab" width="20" height="20">
-    </a>
 </p>
+
+### Links
+[![Email](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail)](mailto:freimmc@gmail.com)
+[![LeetCode](https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/Artyom__/)
+[![Gitlab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)](https://gitlab.com/artemtumch_)
+
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/reznya22)
