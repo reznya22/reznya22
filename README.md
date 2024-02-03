@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
     <a href="https://gitlab.com/artemtumch_">
-        <img src="https://static-00.iconduck.com/assets.00/gitlab-icon-512x471-wfbmkpzi.png" alt="Gitlab">
+        <img src="https://static-00.iconduck.com/assets.00/gitlab-icon-512x471-wfbmkpzi.png" alt="Gitlab" width="20" height="20">
     </a>
 </p>
 
