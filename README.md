@@ -32,5 +32,5 @@
 [![Nginx](https://img.shields.io/badge/nginx-black?style=for-the-badge&logo=nginx)](https://hub.docker.com/u/reznya22)
 
 ### OS
-[![Ubuntu](https://img.shields.io/badge/django-black?style=for-the-badge&logo=ubuntu)](https://github.com/reznya22)
-[![Windows](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Windows)](https://github.com/reznya22)
+[![Ubuntu](https://img.shields.io/badge/ubuntu-black?style=for-the-badge&logo=ubuntu)](https://github.com/reznya22)
+[![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=Windows)](https://github.com/reznya22)
