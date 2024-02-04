@@ -1,5 +1,3 @@
-<h1 align="center">Welcome to my page!</h1>
-
 ### Links
 [![Email](https://img.shields.io/badge/email-grey?style=for-the-badge&logo=gmail)](mailto:freimmc@gmail.com)
 [![LeetCode](https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode)](https://leetcode.com/Artyom__/)
