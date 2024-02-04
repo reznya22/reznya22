@@ -4,6 +4,7 @@
 [![Email](https://img.shields.io/badge/email-black?style=for-the-badge&logo=gmail)](mailto:freimmc@gmail.com)
 [![LeetCode](https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/Artyom__/)
 [![Gitlab](https://img.shields.io/badge/gitlab-black?style=for-the-badge&logo=gitlab)](https://gitlab.com/artemtumch_)
+[![Telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram)](https://t.me/artempanda69)
 
 
 ### Languages
