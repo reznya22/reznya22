@@ -1,10 +1,10 @@
 <h1 align="center">Welcome to my page!</h1>
 
 ### Links
-[![Email](https://img.shields.io/badge/email-lightgrey?style=for-the-badge&logo=gmail)](mailto:freimmc@gmail.com)
-[![LeetCode](https://img.shields.io/badge/leetcode-lightgrey?style=for-the-badge&logo=leetcode)](https://leetcode.com/Artyom__/)
-[![Gitlab](https://img.shields.io/badge/gitlab-lightgrey?style=for-the-badge&logo=gitlab)](https://gitlab.com/artemtumch_)
-[![Telegram](https://img.shields.io/badge/telegram-lightgrey?style=for-the-badge&logo=telegram)](https://t.me/artempanda69)
+[![Email](https://img.shields.io/badge/email-grey?style=for-the-badge&logo=gmail)](mailto:freimmc@gmail.com)
+[![LeetCode](https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode)](https://leetcode.com/Artyom__/)
+[![Gitlab](https://img.shields.io/badge/gitlab-grey?style=for-the-badge&logo=gitlab)](https://gitlab.com/artemtumch_)
+[![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/artempanda69)
 
 
 ### Languages
