@@ -3,7 +3,7 @@
 [![LeetCode](https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode)](https://leetcode.com/Artyom__/)
 [![Gitlab](https://img.shields.io/badge/gitlab-grey?style=for-the-badge&logo=gitlab)](https://gitlab.com/artemtumch_)
 [![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram)](https://t.me/artemtumch69)
-
+<a  name="telegram" target="_blank" href="https://t.me/artemtumch69">[![Telegram](https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram)]</a>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)](https://github.com/reznya22)
