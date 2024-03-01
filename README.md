@@ -15,7 +15,6 @@
 [![Django](https://img.shields.io/badge/django-grey?style=for-the-badge&logo=django)](https://github.com/reznya22)
 [![Docker](https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker)](https://hub.docker.com/u/reznya22)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-grey?style=for-the-badge&logo=postgresql)](https://github.com/reznya22)
-[![Aiogram](https://img.shields.io/badge/aiogram-grey?style=for-the-badge&logo=aiogram)](https://hub.docker.com/u/reznya22)
 [![Redis](https://img.shields.io/badge/redis-grey?style=for-the-badge&logo=redis)](https://hub.docker.com/u/reznya22)
 [![Celery](https://img.shields.io/badge/celery-grey?style=for-the-badge&logo=celery)](https://hub.docker.com/u/reznya22)
 [![Gunicorn](https://img.shields.io/badge/gunicorn-grey?style=for-the-badge&logo=gunicorn)](https://hub.docker.com/u/reznya22)
